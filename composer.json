@@ -1,0 +1,12 @@
+{
+  "name": "douggr/emyi-skeleton",
+  "license": "MIT",
+  "require": {
+    "douggr/emyi": "~0.9"
+  },
+  "autoload": {
+    "psr-0": {
+      "": "application/"
+    }
+  }
+}

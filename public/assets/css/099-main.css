@@ -1,0 +1,21 @@
+/** 
+ * emyi
+ * 
+ * @link http://github.com/douggr/emyi for the canonical source repository
+ * @license http://opensource.org/licenses/MIT MIT License
+ */
+
+body {
+  padding-top: 70px;
+}
+
+small, .small {
+  font-size: 65%;
+}
+
+.es-footer {
+  text-align: center;
+  border-top: 1px solid #EEEEEE;
+  margin: 20px 0 40px;
+  padding-top: 9px;
+}

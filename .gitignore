@@ -1,0 +1,9 @@
+# local files
+*.~
+*.db
+*.lock
+*.cache
+*.tmp
+
+# composer files
+vendor
